@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nam3loc
 - 👀 I’m interested in ... disc golf, coding, and music.
-- 🌱 I’m currently learning ... javascript.
+- 🌱 I’m currently learning ... HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on ... learning any type of language, specifically js or python.
 - 📫 How to reach me ... 
 
