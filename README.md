@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img alt="Hand waving" width="50" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif">, I'm Coleman Escue</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [captains-log](https://github.com/Nam3loc/captains-log)
+- 🔭 I’m currently working on [pinterest clone](https://github.com/Nam3loc/pinterest)
 
 - 🌱 I’m currently learning **Bootstrap, React, and Node**
 
