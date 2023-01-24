@@ -2,21 +2,21 @@
 <h1 align="center">Hi <img alt="Hand waving" width="50" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif">, I'm Coleman Escue</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [pinterest clone](https://github.com/Nam3loc/pinterest)
+- 🔭 I’m currently working on [learning Tailwind](https://github.com/Nam3loc/TailwindCSS_Learning_Project), [learning A* algorithm](https://github.com/Nam3loc/Pathfinding-Visualizer), and [improving my Pinterest clone](https://github.com/Nam3loc/pinterest)
 
-- 🌱 I’m currently learning **Bootstrap, React, and Node**
+- 🌱 I’m currently learning **TailwindCSS, React, and full MERN infrastructure built apps**
 
-- 👯 I’m looking for help with [portfolio-website](https://github.com/Nam3loc/portfolio-website)
+- 👯 I’m looking for help with [dijkstras pathfinding visualizer](https://github.com/Nam3loc/Pathfinding-Visualizer)
 
-- 🤝 My current favorite project [bloons-project](https://github.com/Nam3loc/bloons-project)
+- 🤝 My current favorite project [pinterest clone](https://github.com/Nam3loc/pinterest)
 
-- 👨‍💻 All of my projects are available at [https://nam3loc.github.io/portfolio-website/](https://nam3loc.github.io/portfolio-website/)
+- 👨‍💻 All of my favorite projects are available at [https://nam3loc.github.io/portfolio-website/](https://nam3loc.github.io/portfolio-website/)
 
 - 📝 I regularly brain dump on [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
 
-- 💬 Ask me about **my favorite projects**
+- 💬 Ask me about **disc golf**
 
-- 📫 How to reach me **rce2015@gmail.com**
+- 📫 How to reach me **colemanfullstackdev@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
 
