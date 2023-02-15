@@ -2,6 +2,9 @@
 <h1 align="center">Hi <img alt="Hand waving" width="50" src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif">, I'm Coleman Escue</h1>
 <h3 align="center">Software Developer</h3>
 
+If you ever want to give any feedback on the code you see, feel free to leave your thought here: [Anonymous Code Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdpbnD0c0dY52LzuowXbgig9ktyM8ryd2esLz7Xn6tKSK62FQ/viewform?usp=sf_link)
+
+
 - 🔭 I’m currently working on [learning Tailwind](https://github.com/Nam3loc/TailwindCSS_Learning_Project), [learning A* algorithm](https://github.com/Nam3loc/Pathfinding-Visualizer), and [improving my Pinterest clone](https://github.com/Nam3loc/pinterest)
 
 - 🌱 I’m currently learning **TailwindCSS, React, and full MERN infrastructure built apps**
