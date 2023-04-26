@@ -5,25 +5,15 @@
 If you ever want to give any feedback on the code you see, feel free to leave your thought here: [Anonymous Code Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdpbnD0c0dY52LzuowXbgig9ktyM8ryd2esLz7Xn6tKSK62FQ/viewform?usp=sf_link)
 
 
-- 🔭 I’m currently working on [learning Tailwind](https://github.com/Nam3loc/TailwindCSS_Learning_Project), [learning A* algorithm](https://github.com/Nam3loc/Pathfinding-Visualizer), and [improving my Pinterest clone](https://github.com/Nam3loc/pinterest)
-
-- 🌱 I’m currently learning **TailwindCSS, React, and full MERN infrastructure built apps**
-
-- 👯 I’m looking for help with [dijkstras pathfinding visualizer](https://github.com/Nam3loc/Pathfinding-Visualizer)
+- I’m currently playing with [the RiotAPI](https://github.com/Nam3loc/) and [improving my bloons game](https://github.com/Nam3loc/bloons2.0)
 
 - 🤝 My current favorite project [pinterest clone](https://github.com/Nam3loc/pinterest)
 
-- 👨‍💻 All of my favorite projects are available at [https://nam3loc.github.io/portfolio-website/](https://nam3loc.github.io/portfolio-website/)
-
 - 📝 I regularly brain dump on [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
-
-- 💬 Ask me about **disc golf**
 
 - 📫 How to reach me **colemanfullstackdev@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
-
-- ⚡ Fun fact **I am a washed up rubik's cuber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
