@@ -7,13 +7,13 @@ If you ever want to give any feedback on the code you see, feel free to leave yo
 
 - I’m currently playing with [the RiotAPI](https://github.com/Nam3loc/) and [improving my bloons game](https://github.com/Nam3loc/bloons2.0)
 
-- 🤝 My current favorite project [pinterest clone](https://github.com/Nam3loc/pinterest)
+- My current favorite project [pinterest clone](https://github.com/Nam3loc/pinterest)
 
-- 📝 I regularly brain dump on [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
+- I regularly brain dump on [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
 
-- 📫 How to reach me **colemanfullstackdev@gmail.com**
+- How to reach me **colemanfullstackdev@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
+- Know about my experiences [www.linkedin.com/in/coleman-escue](www.linkedin.com/in/coleman-escue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
