@@ -5,7 +5,7 @@
 If you ever want to give any feedback on the code you see, feel free to leave your thought here: [Anonymous Code Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdpbnD0c0dY52LzuowXbgig9ktyM8ryd2esLz7Xn6tKSK62FQ/viewform?usp=sf_link)
 
 
-- I’m currently playing with [the RiotAPI](https://github.com/Nam3loc/) and [improving my bloons game](https://github.com/Nam3loc/bloons2.0)
+- I’m currently building a personal project using Next.js and Nest.js - [SoundScout]([https://github.com/Nam3loc/](https://github.com/Nam3loc/podcast_finder_be)).
 
 - My current favorite project [pinterest clone](https://github.com/Nam3loc/pinterest)
 
